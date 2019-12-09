@@ -1,3 +1,3 @@
 
 # learn-git
-i want creat a html page and change it.
+i want create a html page and change it.
